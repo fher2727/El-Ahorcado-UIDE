@@ -6,7 +6,7 @@ Desarrollar el juego del ahorcado aplicando lógica de programación, estructura
 
 ## Contenido del repositorio
 - **/src/main.py**: código fuente del juego
-- **/diagrams/**: diagramas de flujo del sistema (general, juego y validaciones)
+- **/diagramas/**: diagramas de flujo del sistema (general, juego y validaciones)
 
 ## Funcionalidades implementadas (avance)
 - Selección aleatoria de palabra
