@@ -83,3 +83,4 @@ def validar_entrada(entrada: str, letras_usadas: set[str]) -> tuple[bool, str]:
       1) Debe ser 1 solo carácter
       2) Debe ser una letra
       3) No debe repeti
+      """
