@@ -84,3 +84,5 @@ def validar_entrada(entrada: str, letras_usadas: set[str]) -> tuple[bool, str]:
       2) Debe ser una letra
       3) No debe repeti
       """
+if __name__ == "__main__":
+    menu()
