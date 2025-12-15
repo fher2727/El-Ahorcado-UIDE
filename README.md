@@ -21,4 +21,4 @@ Desarrollar el juego del ahorcado aplicando lógica de programación, estructura
 3. Ejecutar:
    ```bash
    python src/main.py
-
+"El programa fue probardo y funciona correctamente."
